@@ -15,7 +15,7 @@ const Main = () => {
             </p>
           </div>
           <div className="flex space-x-6 place-content-center">
-            <p className="font-base">Trending news for today's world</p>
+            <p className="font-base">Trending news for todays world</p>
           </div>
         </div>
       </div>
